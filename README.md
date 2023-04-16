@@ -2,14 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanakmaheshwari" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kanakmaheshwari.github.io/Portfolio/](https://kanakmaheshwari.github.io/Portfolio/)
-
-- 📫 How to reach me **kanakmaheshwari26@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gm1xO-wxKyaafw_i7egn_oJujvz5wP-T/view?usp=sharing](https://drive.google.com/file/d/1gm1xO-wxKyaafw_i7egn_oJujvz5wP-T/view?usp=sharing)
-
-<img src="<h3 align="center">ML Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanakmaheshwari" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://kanakmaheshwari.github.io/Portfolio/](https://kanakmaheshwari.github.io/Portfolio/)
